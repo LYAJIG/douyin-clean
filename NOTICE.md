@@ -25,3 +25,7 @@ LYAJIG 提出需求、功能取舍和参考样式，并提供使用反馈。
 Codex（OpenAI AI）协助完成扩展迁移、设置面板与存储通信、悬浮导航与排序、视频列表及顶栏布局、分类和播放器精简规则、检查与测试脚本、文档整理。原作者脚本和 BewlyCat 的成果不归为 AI 原创。
 
 欢迎通过本仓库 Issues 反馈问题和建议。后续结合反馈继续修复与适配，不承诺固定更新周期。验证范围和已知限制见 VALIDATION.md。
+
+## 3.x 参考
+
+工具栏弹窗、分组和单项设置参考 insin 的 [Control Panel for Twitter](https://github.com/insin/control-panel-for-twitter)。Codex 协助实现抖音页面的独立规则、设置状态和本地验证。
